@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Zakaria Mowafek!
 
-## 🌱 I'm a student in Wirtschaftsinformatik at FH Frankfurt
+## 🌱 I'm a student in Business informatics student at FH Frankfurt
 - 📫 How to reach me: [LinkedIn]([#](https://www.linkedin.com/in/zakaria-mowafek/))
 
 ### 🛠️ Tools and Technologies
